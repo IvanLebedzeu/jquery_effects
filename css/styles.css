@@ -25,3 +25,10 @@ img{
   height: 200px;
   width: 200px;
 }
+
+#slide, #slide-up {
+  padding: 5px;
+  text-align: center;
+  background-color: #7b8b4d;
+  border: solid 1px #a84f4f;
+}
