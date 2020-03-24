@@ -1,0 +1,11 @@
+#slide-up{
+  padding: 10px;
+  display: none;
+}
+
+#slide-down,#slide-up{
+  text-align: center;
+  background-color: aqua;
+  border: cadetblue solid 2px;
+  padding: 5px;
+}
